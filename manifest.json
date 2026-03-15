@@ -2,7 +2,7 @@
   "name": "TrainLog",
   "short_name": "TrainLog",
   "description": "Suivi d'entraînement personnalisé",
-  "start_url": "/",
+  "start_url": "/TrainLog/",
   "display": "standalone",
   "background_color": "#0a0a0f",
   "theme_color": "#0a0a0f",
